@@ -1,14 +1,14 @@
-title: Computer Vision Lab
-email: nikolasent@gmail.com
-author: Nikolay Falaleev
+title: MPIS Lab
+email: zhaokbgshs@gmail.com
+author: corbin zhao
 logo: /static/img/avatar.png
-about: Nikolay Falaleev
+about: corbin zhao
 description: > 
-  A Robotics, Computer Vision and Machine Learning lab by Nikolay Falaleev. The main focus of the blog is application of Deep Learning for Computer Vision tasks, as well as other relevant topics: classical Computer Vision, Numerical Methods and Hardware.
+  A Robotics, Machine Perception and Intelligent System lab by Corbin Zhao. The main focus of the blog is application of Deep Learning for Computer Vision tasks, as well as other relevant topics: classical Computer Vision, Numerical Methods and Hardware.
 baseurl: ""
-url: "https://nikolasent.github.io" # the base hostname & protocol 
-twitter_username: NFalaleev
-github:  NikolasEnt
+url: "https://corbining.github.io" # the base hostname & protocol 
+twitter_username: corbining
+github:  corbining
 
 allowsearch: false
 enableTags:  false
